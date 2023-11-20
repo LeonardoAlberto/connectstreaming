@@ -799,9 +799,6 @@ body {
   .mainHeader .mainHeaderContent .mainHeaderContentMenu {
     display: none;
   }
-  .mainHeader .mainHeaderContent .mainHeaderContentMenuMobile {
-    display: inherit;
-  }
 }
 
 /* 480px */
